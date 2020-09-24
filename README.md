@@ -8,13 +8,13 @@ the user can then input new information.
 
 
 User Menu
-![alt text](https://github.com/jacobgronikowski/Assignment2/blob/master/Screenshots/Screenshot_1600920341.png)
+![alt text](https://github.com/jacobgronikowski/Assignment2/blob/master/Screenshots/Screenshot_1600920341.png =288x512)
 
 Passwords do not match
-![alt text](https://github.com/jacobgronikowski/Assignment2/blob/master/Screenshots/Screenshot_1600920364.png)
+![alt text](https://github.com/jacobgronikowski/Assignment2/blob/master/Screenshots/Screenshot_1600920364.png =288x512)
 
 Not all information is filled out
-![alt text](https://github.com/jacobgronikowski/Assignment2/blob/master/Screenshots/Screenshot_1600920397.png)
+![alt text](https://github.com/jacobgronikowski/Assignment2/blob/master/Screenshots/Screenshot_1600920397.png =288x512)
 
 Screen when all information is successfully entered
-![alt text](https://github.com/jacobgronikowski/Assignment2/blob/master/Screenshots/Screenshot_1600920574.png)
+![alt text](https://github.com/jacobgronikowski/Assignment2/blob/master/Screenshots/Screenshot_1600920574.png =288x512)
