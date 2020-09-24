@@ -8,7 +8,7 @@ the user can then input new information.
 
 
 User Menu
-![alt text](https://github.com/jacobgronikowski/Assignment2/blob/master/Screenshots/Screenshot_1600920341.png =288x512)
+![alt text](https://github.com/jacobgronikowski/Assignment2/blob/master/Screenshots/Screenshot_1600920341.png){:height="50%" width="50%"}
 
 Passwords do not match
 ![alt text](https://github.com/jacobgronikowski/Assignment2/blob/master/Screenshots/Screenshot_1600920364.png =288x512)
